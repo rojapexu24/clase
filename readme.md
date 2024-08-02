@@ -9,5 +9,6 @@ El desarrollador escribe un archivo de codigo con la extension *".py"*
 
 ### Interpretacion del codigo:
 El interprete de codigo lee el archivo *".py"* y convierte el codigo en byte code, una representacion media del codigo que es mas facil de ejecutar para la 
-maquina
+maquina.
 
+### Ejecucion del Byte Code
